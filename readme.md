@@ -9,4 +9,4 @@
 ```bash
 touch .gitignore
 curl -o .gitignore https://raw.githubusercontent.com/w3villa-avinash/UnityTool/main/.gitignore
-curl -OJL https://raw.githubusercontent.com/w3villa-avinash/UnityTool/main/ToolsMenu.cs
+curl -OJL https://raw.githubusercontent.com/w3villa-avinash/UnityTool/main/ToolsMEnu.cs
